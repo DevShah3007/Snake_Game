@@ -1,6 +1,8 @@
 # Snake_Game
 Snake game is the first game coded by me.
 
+Completely built with **PyGame**, it is similar to the classical **Snake Game**.
+
 To play the game, go to releases section and download the source code zip folder and then follow the below steps:-
 
 snake-game-0.1 -> output(folder) -> snake-game(folder) -> snake-game(application)
