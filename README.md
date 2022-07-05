@@ -1,5 +1,5 @@
-# Snake_Game
-Snake game is the first game coded by me.
+# The Perfect Snake
+The Perfect Snake is the first game coded by me.
 
 Completely built with **PyGame**, it is similar to the classical **Snake Game**.
 
